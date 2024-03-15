@@ -1,0 +1,14 @@
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\bin\Debug\net7.0\hometask.exe
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\bin\Debug\net7.0\hometask.deps.json
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\bin\Debug\net7.0\hometask.runtimeconfig.json
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\bin\Debug\net7.0\hometask.dll
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\bin\Debug\net7.0\hometask.pdb
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\hometask.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\hometask.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\hometask.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\hometask.dll
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\refint\hometask.dll
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\hometask.pdb
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\hometask.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Desktop\с#\hometask\obj\Debug\net7.0\ref\hometask.dll
